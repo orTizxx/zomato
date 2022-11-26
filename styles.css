@@ -525,7 +525,7 @@
     }
 
     .link {
-        display: none;
+        display: block;
     }
 
     .main__banner {
